@@ -1,0 +1,11 @@
+#keret {
+    width: 30%;
+    background-color: wheat;
+    border-radius: 5px;
+    box-shadow: 15px 15px rgb(177, 115, 0);
+}
+#main legend {
+    font-size: 22px;
+    font-weight: bold;
+}
+
